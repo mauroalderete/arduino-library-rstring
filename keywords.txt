@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map rString
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+rString	KEYWORD1	rString
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+toString	KEYWORD2
+toArray	KEYWORD2
+IsEmpty	KEYWORD2
+charAt	KEYWORD2
+compareTo	KEYWORD2
+Equals	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+Empty	LITERAL1
